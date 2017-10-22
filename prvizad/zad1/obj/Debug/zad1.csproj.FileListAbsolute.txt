@@ -1,0 +1,10 @@
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca1\zad1\bin\Debug\zad1.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca1\zad1\bin\Debug\zad1.pdb
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca1\zad1\obj\Debug\zad1.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca1\zad1\obj\Debug\zad1.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca1\zad1\obj\Debug\zad1.pdb
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\prvizad\zad1\bin\Debug\zad1.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\prvizad\zad1\bin\Debug\zad1.pdb
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\prvizad\zad1\obj\Debug\zad1.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\prvizad\zad1\obj\Debug\zad1.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\prvizad\zad1\obj\Debug\zad1.pdb
