@@ -1,0 +1,5 @@
+c:\Users\Mario\documents\visual studio 2017\Projects\zad2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+c:\Users\Mario\documents\visual studio 2017\Projects\zad2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+c:\Users\Mario\documents\visual studio 2017\Projects\zad2\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+c:\Users\Mario\documents\visual studio 2017\Projects\zad2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+c:\Users\Mario\documents\visual studio 2017\Projects\zad2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

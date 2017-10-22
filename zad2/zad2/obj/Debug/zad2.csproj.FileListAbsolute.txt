@@ -1,0 +1,8 @@
+c:\users\mario\documents\visual studio 2017\Projects\zad2\zad2\bin\Debug\zad2.exe.config
+c:\users\mario\documents\visual studio 2017\Projects\zad2\zad2\bin\Debug\zad2.exe
+c:\users\mario\documents\visual studio 2017\Projects\zad2\zad2\bin\Debug\zad2.pdb
+c:\users\mario\documents\visual studio 2017\Projects\zad2\zad2\bin\Debug\ClassLibrary2.dll
+c:\users\mario\documents\visual studio 2017\Projects\zad2\zad2\bin\Debug\ClassLibrary2.pdb
+c:\users\mario\documents\visual studio 2017\Projects\zad2\zad2\obj\Debug\zad2.csprojResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2017\Projects\zad2\zad2\obj\Debug\zad2.exe
+c:\users\mario\documents\visual studio 2017\Projects\zad2\zad2\obj\Debug\zad2.pdb
